@@ -1,4 +1,4 @@
-# {Password Generator](https://bisal-xetri.github.io/passwordGenerator/)
+# [Password Generator](https://bisal-xetri.github.io/passwordGenerator/)
 
 A simple password generator built with Vanilla JavaScript using Vite. This application allows users to generate strong, random passwords with customizable options such as length, uppercase letters, lowercase letters, numbers, and symbols.
 
